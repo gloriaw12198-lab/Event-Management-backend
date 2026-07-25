@@ -2,6 +2,8 @@
 
 A Django REST Framework backend for an event management system with JWT authentication, role-based access control, and comprehensive event management features.
 
+**Frontend Integration**: See [FRONTEND_SETUP.md](FRONTEND_SETUP.md) for detailed instructions on connecting this backend with your frontend application.
+
 ## Tech Stack
 
 - Django 4.2.7
